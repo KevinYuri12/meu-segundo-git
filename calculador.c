@@ -15,3 +15,7 @@ int subtracao(int a, int b){
 float divisao(float a, float b){
     return a/b;
 }
+
+int multiplicacao(int a, int b){
+    return a * b;
+}
