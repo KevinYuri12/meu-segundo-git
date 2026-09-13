@@ -1,4 +1,4 @@
-# Primeiro Segundo Projeto de Git / GitHub
+# Segundo Projeto de Git / GitHub
 
 Projeto simples, desenvolvido unicamente para aprender conceitos e utilizações de Git e GitHub.
 
